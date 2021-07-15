@@ -16,7 +16,7 @@
 
 ## 进入flask-tutorial/文件夹  
 ### $ cd flask-tutorial/  
-## 声明  
+## 声明FLASK_APP和FLASK_ENV  
 ### $ export FLASK_APP=flaskr  
 ### $ export FLASK_ENV=development  
 ## 初始化数据库  
