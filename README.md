@@ -1,9 +1,18 @@
-## 需要安装python环境  
-## 在gitpod中打开仓库  
-## 需要安装flaks  
+# Install
+
+
+## 需要在linux环境下安装python环境  
+## 需要安装flask  
 ### $ pip install Flask  
+## 将克隆到本地（ ***注意：如果通过gitpod打开，会因为本地文件缺失跳转失败*** ）
+### $ git clone https://github.com/WaitHusky/end-web.github.io.git    
+
+
+# Usage
+
+
 ## 进入flask-tutorial/文件夹  
-### cd flask-tutorial/  
+### $ cd flask-tutorial/  
 ## 声明  
 ### $ export FLASK_APP=flaskr  
 ### $ export FLASK_ENV=development  
@@ -19,5 +28,16 @@
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 591-231-792
-## 使用 ***ctrl+click*** 点击 ***http://127.0.0.1:5000/*** 处
-## 点击 ***register*** 注册  
+## 使用 ***ctrl+click*** 点击 ***http://127.0.0.1:5000/*** 处  
+## 点击 ***register*** 注册（ ***注意：如果通过gitpod打开，会因为本地文件缺失跳转失败*** ）  
+## 注册成功后登陆刚注册的用户  
+## 点击“假面骑士介绍”进入前端所在页面  
+
+
+# Contributing  
+## PRs accepted.  
+### wait4132
+### husky2333c
+
+# License
+## MIT © Richard McRichface
